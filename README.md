@@ -6,9 +6,11 @@ Professionally I write, test, audit and maintain smart contracts and build front
 
 ## Right now ⏬
 
-As you're reading this, I'm working as a full time lead engineer at molecule.xyz. Here we're inventing nothing less than the next big revolution in intellectual manufacturing: the DeSci ecosystem. Or focus lies on disrupting the pharmaceutic biotech space. We're outlining legal primitives that combine on- and offchain primitives to make intellectual property accessible, shareable and profitable for everyone. We build DAO tooling, dashboards, fundraising contracts, bonding curves and market making helpers, cross chain ip token assets and interfaces to decentralized storage systems.
+I'm working as technical cofounder at welshare.health. We're developing a stack of applications, services and EVM contracts to empower AI research agents to discover and get in touch with user groups who can safely share data about health conditions relevant to their research requirements.  
 
 ## Some history ◀️
+
+Previously I've proudly served as molecule.xyz's lead engineer to invent nothing less than the next big revolution in intellectual manufacturing: the DeSci ecosystem (with a focus on disrupting the pharmaceutic biotech space). At Molecule we were outlining legal primitives that combine on- and offchain building blocks to make intellectual property accessible, shareable and profitable for everyone. At Molecule I built tools to help operating DAOs, dashboards, fundraising contracts, bonding curves and market making helpers, cross chain ip token assets and interfaced this with decentralized storage systems.
 
 Historically I'm a web developer with roots in Java and PHP land. In 2010 I rebuilt and rolled out Samsung Electronic's European Fun Club using Java Spring with a team of 12. In 2014 I went neck deep into the Symfony app framework, and helped building price comparison portals for services and retail goods. Besides React I'm familiar with sophisticated UX layers using Vue/Nuxt/Vuetify and Apollo Client. 
 
