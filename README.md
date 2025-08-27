@@ -1,12 +1,12 @@
-# I code web3 ⛓️
+# building apps without masters. ⛓️
 
-I'm a cypherpunk acolyte and stoked about decentralized tech since 2018, I'm driven by the firm belief that we must reduce intermediaries to accelerate private data and compute and and transform the faang monoliths towards community driven business models with sustainability and accessibility in mind. I'm all in Ethereum/EVM/Solidity but easily excited about anything that comes up every now and then. 
+I'm a cypherpunk acolyte and stoked about decentralization since 2018, I'm driven by the firm belief that we must reduce intermediaries to accelerate private data and compute and and transform the faang monoliths towards community driven business models with sustainability and accessibility in mind. I'm all in Ethereum/EVM/Solidity but easily excited about anything that comes up every now and then. 
 
-Professionally I write, test, audit and maintain smart contracts and build frontends for them (preferably Next/React & Chakra, oc also shadcn/twcss). 
+Professionally I write, test, audit and maintain smart contracts and build frontends for them (preferably Next/React & shadcn/twcss). 
 
 ## Right now ⏬
 
-I'm working as technical cofounder at welshare.health. We're developing a stack of applications, services and EVM contracts to empower AI research agents to discover and get in touch with user groups who can safely share data about health conditions relevant to their research requirements.  
+I'm working as technical cofounder at welshare.health. We're developing a stack of applications and permissionless services to empower AI research agents to discover and get in touch with user groups who can safely share data about health conditions relevant to their research requirements.  
 
 ## Some history ◀️
 
