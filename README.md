@@ -1,19 +1,23 @@
 # building apps without masters. ⛓️
 
-I'm a cypherpunk acolyte and stoked about decentralization since 2018, I'm driven by the firm belief that we must reduce intermediaries to accelerate private data and compute and and transform the faang monoliths towards community driven business models with sustainability and accessibility in mind. I'm all in Ethereum/EVM/Solidity but easily excited about anything that comes up every now and then. 
+Software builder & architect from Berlin, shipping since Y2K. Cypherpunk acolyte since 2018 — convinced we need to shrink intermediaries, push compute and data closer to people, and trade FAANG monoliths for community-owned, sustainable alternatives. Ethereum/EVM/Solidity native, but easily nerd-sniped by anything new.
 
-Professionally I write, test, audit and maintain smart contracts and build frontends for them (preferably Next/React & shadcn/twcss). 
+Day to day I write, test, audit and ship Solidity, and build the React/Next/shadcn frontends that make it usable.
 
 ## Right now ⏬
 
-I'm working as technical cofounder at welshare.health. We're developing a stack of applications and permissionless services to empower AI research agents to discover and get in touch with user groups who can safely share data about health conditions relevant to their research requirements.  
+Tech co-founder at **welshare.health** — building the Health Profile Matching Protocol (HPMP) so agentic researchers can assemble cohorts from real patients without ever seeing their data. Matching runs inside TEEs via Nillion. FHIR, MCP, cryptography, lots of TypeScript.
+
+On the side: **PeptAI / beach.science** — agent harnesses for biomedical hypothesis generation, running at scale on cheap VPS and EC2.
 
 ## Some history ◀️
 
-Previously I've proudly served as molecule.xyz's lead engineer to invent nothing less than the next big revolution in intellectual manufacturing: the DeSci ecosystem (with a focus on disrupting the pharmaceutic biotech space). At Molecule we were outlining legal primitives that combine on- and offchain building blocks to make intellectual property accessible, shareable and profitable for everyone. At Molecule I built tools to help operating DAOs, dashboards, fundraising contracts, bonding curves and market making helpers, cross chain ip token assets and interfaced this with decentralized storage systems.
+Before that I was principal engineer at **molecule.xyz**, building IPNFTs, crowdfunding contracts, bonding-curve markets (Catalyst) and the DeSci primitives that made biotech IP tradable on-chain. Earlier: developer ambassador at Turbine Kreuzberg, head curator of code.talks 2022, ETHOnline 2021 finalist with SPLICE.
 
-Historically I'm a web developer with roots in Java and PHP land. In 2010 I rebuilt and rolled out Samsung Electronic's European Fun Club using Java Spring with a team of 12. In 2014 I went neck deep into the Symfony app framework, and helped building price comparison portals for services and retail goods. Besides React I'm familiar with sophisticated UX layers using Vue/Nuxt/Vuetify and Apollo Client. 
+Web roots in Java, PHP and Symfony — rebuilt Samsung's European Fun Club in 2010, founded and exited AreaDigital AG (digital media house, 30 people, 4 publications) in the 2000s.
+
+Also: agent charmer, environmentalist, cyclepunk.
 
 ## Talk to me 🗨️
 
-Find my anywhere as stadolf or read my full cv at stadolf.de
+`stadolf` almost everywhere. Full CV at [stadolf.de](https://stadolf.de).
